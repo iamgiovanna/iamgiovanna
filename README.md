@@ -19,7 +19,7 @@
   <h3>My Github Stats 📊</h3>
   (https://github-readme-stats.vercel.app/api?username=iamgiovanna&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgiovanna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 </div>
 
