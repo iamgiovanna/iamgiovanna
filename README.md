@@ -14,4 +14,26 @@
  
   
 </div>
+<!--ícones e imagem das estatísticas-->
+<div>
+  <h3>My Github Stats 📊</h3>
+  (https://github-readme-stats.vercel.app/api?username=iamgiovanna&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-L1ma&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+</div>
+
+<br>
+
+<!--links para contato-->
+<div>
+  <p>📩 Me contate</p>
+  <a href = "giovanna.oliveira295@etec.sp.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+
+ 
+
+<!--animação-->
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
+ 
