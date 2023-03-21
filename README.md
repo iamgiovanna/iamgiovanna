@@ -10,10 +10,8 @@
 <!--ícones e imagem das estatísticas-->
 <div>
   <h3>My Github Stats 📊</h3>
-  
-  (https://github-readme-stats.vercel.app/api?username=iamgiovanna&show_icons=true&theme=dracula)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgiovanna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgiovanna&show_icons=true&theme=dracula)](https://github.com/iamgiovanna/github-readme-stats)
   <p align="left" display="flex">
 <a href="http://www.github.com/iamgiovanna"><img src="https://github-readme-stats.vercel.app/api?username=iamgiovanna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamgiovanna's GitHub stats" /></a>
 
