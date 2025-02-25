@@ -1,8 +1,13 @@
-
-<h6>Oie! Meu nome é Giovanna, e estudo desenvolvimento de sistemas! Tenho o foco de trabalhar na área de hardware ou IA. No momento estou terminando meu TCC. </h6>
- 
-  
-</div>
-
+Hello! My name is Giovanna and I'm currently studying Computer Science. 
+Now I want to study machine learning and start to focus on computer physycs to. 
+I have some habilities with:
+      - Java
+      - Kotlin
+      - C#
+      - C++
+      - JavaScript
+      - PHP
+      
+     
 
  
